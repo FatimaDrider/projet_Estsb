@@ -13,7 +13,7 @@
     <div id="slideout-menu">
         <ul>
             <li>
-                <a href="<?php echo site_url(''); ?>">Home</a>
+                <a href="<?php echo site_url('home'); ?>">Home</a>
             </li>
             <li>
                 <a href="<?php echo site_url('/blog'); ?>">Blog</a>
